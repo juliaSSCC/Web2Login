@@ -39,20 +39,6 @@ CREATE TABLE `usuario` (
 --
 
 INSERT INTO `usuario` (`id`, `login`, `senha`) VALUES
-(1, 'dus9cfrnjhweiojk', ''),
-(2, 'aaa', ''),
-(3, '111', ''),
-(4, 'aaa', ''),
-(5, '1', ''),
-(6, '1', ''),
-(7, '1', ''),
-(8, '1', ''),
-(9, '1', ''),
-(10, '1', ''),
-(11, '1', ''),
-(12, '111', '111'),
-(13, '1', '1'),
-(14, 'a', 'a');
 
 --
 -- Indexes for dumped tables
